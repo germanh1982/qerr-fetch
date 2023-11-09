@@ -1,4 +1,4 @@
-#!./bin/python3
+#!/usr/bin/env python3
 from argparse import ArgumentParser
 from serial import Serial
 from pyubx2 import UBXReader
