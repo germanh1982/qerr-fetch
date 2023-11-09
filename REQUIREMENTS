@@ -1,10 +1,5 @@
-cffi==1.16.0
-cryptography==41.0.4
 paho-mqtt==1.6.1
-pycparser==2.21
-pygnssutils==1.0.15
-pynmeagps==1.0.28
+pynmeagps==1.0.29
 pyrtcm==1.0.13
 pyserial==3.5
-pyspartn==0.1.10
-pyubx2==1.2.31
+pyubx2==1.2.32
